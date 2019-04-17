@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeOverlap", "ConsoleApp19\RangeOverlap.csproj", "{BFEC45B0-A7FF-4086-87DD-73254CC76595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEC45B0-A7FF-4086-87DD-73254CC76595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEC45B0-A7FF-4086-87DD-73254CC76595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEC45B0-A7FF-4086-87DD-73254CC76595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEC45B0-A7FF-4086-87DD-73254CC76595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47FB5479-70BC-4E73-8FDF-013FDACB7590}
+	EndGlobalSection
+EndGlobal
